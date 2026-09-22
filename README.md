@@ -73,6 +73,21 @@ Git • GitHub • Streamlit • Docker • VS Code
 
 ---
 
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranjali-sonkamble&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjali-sonkamble&layout=compact&hide_border=true&langs_count=8" height="165" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pranjali-sonkamble&hide_border=true" height="165" alt="GitHub contribution streak" />
+</p>
+
+> These are dynamic GitHub activity metrics and may change as repositories and contributions change.
+
+---
+
 ## 📌 What I Build
 
 - Data analytics and BI solutions
