@@ -4,25 +4,11 @@
 
 I build **data-driven applications and analytics projects** that turn complex data into useful, decision-ready insights.
 
-I'm currently focused on **Data Analytics, Business Intelligence, AI/ML, and production-oriented data applications**.
+I'm focused on **Data Analytics, Business Intelligence, and AI-assisted data applications**.
 
 ---
 
 ## 🚀 Featured Projects
-
-### 🔎 DataGPT — AI-Powered Data Analysis
-
-An AI-powered data analysis application designed around a structured workflow:
-
-**Upload Data → Data Quality → Cleaning/Preparation → Analysis → Evidence-Based Insights → Data Chat → Report**
-
-The project focuses on making analysis more reliable by assessing data quality and analysis readiness before generating insights.
-
-**Focus:** Python • Streamlit • Generative AI • Data Analysis • Data Quality • Automated Reporting
-
-> **Status:** Active development
-
----
 
 ### 💳 Transaction Monitoring & Financial Risk Analysis
 
@@ -32,10 +18,22 @@ An AML-style transaction monitoring and financial risk analytics project using *
 - Built transparent, rule-based account risk scoring
 - Categorized accounts into High and Severe risk tiers
 - Designed investigation-oriented Power BI dashboards
-- Built portfolio-level monitoring and account-level drill-through analysis
-- Documented model limitations and potential extensions such as ground-truth validation and network analysis
+- Documented model limitations and potential extensions
 
 [View project →](https://github.com/pranjali-sonkamble/Transaction-Monitoring-Financial-Risk-Analysis)
+
+---
+
+### 🔎 Axiomrow — AI-Assisted Data Analysis Workspace
+
+A Streamlit application that profiles uploaded datasets, audits data quality, assesses analysis readiness, and supports natural-language questions with evidence-grounded analysis and report export.
+
+**Workflow:** Upload Data → Data Quality Audit → Readiness Assessment → Analysis & Insights → Data Chat → Reports
+
+**Focus:** Python • Streamlit • Pandas • DuckDB • Generative AI • Data Quality • Forecasting
+
+- [View source code](https://github.com/pranjali-sonkamble/Axiomrow)
+- [Open live demo](https://axiomrow.streamlit.app/)
 
 ---
 
@@ -43,11 +41,9 @@ An AML-style transaction monitoring and financial risk analytics project using *
 
 An end-to-end retail analytics dashboard using the **UCI Online Retail dataset**.
 
+- Revenue, order, product, and geographic analysis
+- KPI development and DAX measures
 - Data cleaning and feature creation
-- Power BI data modeling and DAX measures
-- Revenue and order analysis
-- Product performance analysis
-- Geographic sales analysis
 - Business recommendations based on observed patterns
 
 [View project →](https://github.com/pranjali-sonkamble/Business_Performance_Dashboard)
@@ -56,20 +52,20 @@ An end-to-end retail analytics dashboard using the **UCI Online Retail dataset**
 
 ## 🛠️ Tech Stack
 
-**Programming**  
-Python • C/C++ • Java • JavaScript • PHP
+### Used in the projects above
 
-**Data & Analytics**  
-SQL • Pandas • NumPy • Excel • Power BI • Tableau • R
+- **Programming & analysis:** Python, SQL
+- **Data & databases:** Pandas, SQLite, DuckDB
+- **BI & visualization:** Power BI, DAX
+- **Application development:** Streamlit, Generative AI / LLM integration
+- **Workflow:** Git, GitHub
 
-**Databases**  
-SQLite • MySQL • PostgreSQL
+### Familiar (not yet demonstrated in the public repositories above)
 
-**AI / Computer Vision**  
-Machine Learning • Generative AI • OpenCV • YOLO
-
-**Development & Tools**  
-Git • GitHub • Streamlit • Docker • VS Code
+- **Languages:** C, C++, Java, JavaScript, PHP, R
+- **Analytics & visualization:** Excel, Tableau
+- **AI / computer vision:** OpenCV, YOLO
+- **Other areas:** Machine learning fundamentals, object-oriented programming
 
 ---
 
@@ -93,23 +89,22 @@ Git • GitHub • Streamlit • Docker • VS Code
 - Data analytics and BI solutions
 - AI-assisted data applications
 - Financial and transaction analytics
-- Interactive Power BI dashboards
+- Interactive dashboards
 - Python automation tools
-- Practical ML and computer-vision applications
 
 ---
 
 ## 📈 Current Focus
 
-I'm strengthening my skills in **Data Analytics, AI/ML, cloud technologies, and production-oriented application development**, with a focus on building projects that demonstrate both analytical thinking and engineering ability.
+I'm strengthening my skills in **Data Analytics, Business Intelligence, and AI-assisted applications**, with an emphasis on reliable analysis, reproducible workflows, and clear communication of results.
 
 ---
 
 ## 🤝 Connect
 
-📧 **Email:** [pranjalisonkamble@gmail.com](mailto:pranjalisonkamble@gmail.com)
-
-💻 **GitHub:** [@pranjali-sonkamble](https://github.com/pranjali-sonkamble)
+- 📧 **Email:** [pranjalisonkamble@gmail.com](mailto:pranjalisonkamble@gmail.com)
+- 💻 **GitHub:** [@pranjali-sonkamble](https://github.com/pranjali-sonkamble)
+- 💼 **LinkedIn:** [linkedin.com/in/pranjali-sonkamble](https://www.linkedin.com/in/pranjali-sonkamble/)
 
 ---
 
