@@ -25,7 +25,7 @@ A reproducible employee attrition analytics and classification prototype using t
 
 **Important limitation:** This is an analytical prototype built on a fictional benchmark dataset. It is not a production HR decision system. Predictions and subgroup metrics should not be used as the sole basis for decisions about individuals.
 
-> The repository is being prepared for publication. A project-specific repository link will be added after it is pushed to GitHub.
+[View project repository →](https://github.com/pranjali-sonkamble/employee-attrition-analysis)
 
 ---
 
