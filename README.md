@@ -1,6 +1,6 @@
 # Hi, I'm Pranjali Sonkamble 👋
 
-### Data Analytics • SQL • Power BI • Python • Generative AI
+### Data Analytics • SQL • Power BI • Python • Applied Machine Learning • Generative AI
 
 Final-year Electronics & Telecommunication Engineering student (SPPU, Pune). I build **data analytics projects and AI-assisted data applications** that turn raw data into decision-ready insights.
 
@@ -9,6 +9,25 @@ Open to internships and entry-level **Data Analyst / BI Analyst** roles.
 ---
 
 ## 🚀 Featured Projects
+
+### 👥 Employee Attrition Analysis & Prediction
+
+A reproducible employee attrition analytics and classification prototype using the IBM HR Analytics Employee Attrition & Performance dataset.
+
+- Audited and analyzed **1,470 employee records** across 35 source columns.
+- Built a preprocessing and modeling workflow with **51 transformed features** and a Logistic Regression classifier.
+- Compared candidate models using repeated stratified cross-validation and evaluated the classification threshold with out-of-fold predictions.
+- Evaluated the frozen model on a held-out test set: **ROC-AUC 0.803**, **Average Precision 0.561**, **Recall 63.83%**, and **Precision 34.88%**.
+- Quantified test-metric uncertainty using **2,000 bootstrap resamples**; added coefficient-based interpretation and age/gender subgroup diagnostics.
+- Added regression tests for core data and modeling components (**10 tests passing**).
+
+**Stack:** Python • pandas • NumPy • scikit-learn • imbalanced-learn • pytest
+
+**Important limitation:** This is an analytical prototype built on a fictional benchmark dataset. It is not a production HR decision system. Predictions and subgroup metrics should not be used as the sole basis for decisions about individuals.
+
+> The repository is being prepared for publication. A project-specific repository link will be added after it is pushed to GitHub.
+
+---
 
 ### 💳 Transaction Monitoring & Financial Risk Analysis
 
@@ -64,12 +83,13 @@ An end-to-end retail analytics dashboard using the **UCI Online Retail dataset**
 |---|---|
 | Languages | Python • SQL |
 | Data & analytics | pandas • NumPy • SQLite • DuckDB • Power BI (DAX) • Plotly |
+| Machine learning | scikit-learn • Logistic Regression • Model evaluation |
 | AI / apps | Streamlit • LLM APIs (Groq, OpenAI) |
 | Engineering | Git • GitHub • GitHub Actions • pytest • Tkinter |
 
 **Familiar (not yet shown in public repositories)**
 
-Excel (PivotTables) • MySQL • Tableau • R • C/C++ • Java • JavaScript • PHP • OpenCV • YOLO • Machine Learning basics • Arduino • STM32
+Excel (PivotTables) • MySQL • Tableau • R • C/C++ • Java • JavaScript • PHP • OpenCV • YOLO • Arduino • STM32
 
 ---
 
@@ -93,6 +113,7 @@ Excel (PivotTables) • MySQL • Tableau • R • C/C++ • Java • JavaScrip
 - Data analytics and BI solutions
 - AI-assisted data applications
 - Financial and transaction analytics
+- Employee analytics and interpretable ML prototypes
 - Interactive Power BI dashboards
 - Python automation tools
 
@@ -100,7 +121,7 @@ Excel (PivotTables) • MySQL • Tableau • R • C/C++ • Java • JavaScrip
 
 ## 📈 Current Focus
 
-Strengthening **SQL, Power BI and Python analytics** through projects that show both analytical thinking and engineering discipline, and preparing for Data/BI Analyst roles.
+Strengthening **SQL, Power BI, Python analytics and applied machine learning** through projects that demonstrate analytical thinking, reproducible workflows, evaluation discipline and clear communication.
 
 ---
 
